@@ -2,7 +2,7 @@
 
 Bilingual Polish/English privacy-policy site for the deterministic ZNAK MEDUSA Store 1.0 application.
 
-Planned GitHub Pages address:
+GitHub Pages address:
 
 `https://humbledrummer.github.io/znak-medusa-privacy/`
 

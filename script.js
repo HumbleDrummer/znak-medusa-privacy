@@ -4,7 +4,7 @@
   const translations = {
     pl: {
       pageTitle: "Polityka prywatności — ZNAK MEDUSA Store 1.0",
-      pageDescription: "Lokalny podgląd polityki ZNAK MEDUSA Store 1.0. Aplikacja nie przesyła zapisanych danych; kopie systemowe pozostają poza jej kontrolą.",
+      pageDescription: "Publiczna polityka prywatności ZNAK MEDUSA Store 1.0. Aplikacja nie przesyła zapisanych danych; kopie systemowe pozostają poza jej kontrolą.",
       skipLink: "Przejdź do treści",
       brandAria: "ZNAK MEDUSA — początek strony",
       languageLabel: "Wybór języka",
@@ -47,16 +47,16 @@
       sharingTitle: "Udostępnianie danych",
       sharingP1: "Store 1.0 nie udostępnia danych wydawcy, reklamodawcom, dostawcom analityki, dostawcom AI ani innym użytkownikom. Aplikacja nie zawiera funkcji komunikacji społecznościowej ani publikowania treści.",
       contactTitle: "Kontakt",
-      contactP1: "Publiczny kanał kontaktowy został wskazany przez właściciela i jest pokazany poniżej. Ten lokalny podgląd nie jest jeszcze publicznym adresem polityki prywatności.",
-      pendingLabel: "Status przygotowania do publikacji",
+      contactP1: "Publiczny kanał kontaktowy został wskazany przez właściciela i jest pokazany poniżej. Ta strona jest publiczną polityką prywatności aplikacji ZNAK MEDUSA Store 1.0.",
+      pendingLabel: "Status publicznej polityki prywatności",
       contactUrlStatus: "Stabilny publiczny URL HTTPS",
       contactChannelStatus: "Publiczny kanał kontaktowy",
       contactReviewStatus: "Przegląd właścicielski",
-      footerScope: "ZNAK MEDUSA Store 1.0 · lokalny podgląd · bez publikacji"
+      footerScope: "ZNAK MEDUSA Store 1.0 · publiczna polityka prywatności"
     },
     en: {
       pageTitle: "Privacy Policy — ZNAK MEDUSA Store 1.0",
-      pageDescription: "Local preview of the ZNAK MEDUSA Store 1.0 policy. The app does not transmit stored data; system copies remain outside its control.",
+      pageDescription: "Public privacy policy for ZNAK MEDUSA Store 1.0. The app does not transmit stored data; system copies remain outside its control.",
       skipLink: "Skip to content",
       brandAria: "ZNAK MEDUSA — start of page",
       languageLabel: "Language selection",
@@ -99,12 +99,12 @@
       sharingTitle: "Data sharing",
       sharingP1: "Store 1.0 does not share data with the publisher, advertisers, analytics providers, AI providers, or other users. The app has no social communication or content-publishing features.",
       contactTitle: "Contact",
-      contactP1: "A public contact channel has been provided by the owner and is shown below. This local preview is not yet a public privacy-policy address.",
-      pendingLabel: "Publication readiness status",
+      contactP1: "A public contact channel has been provided by the owner and is shown below. This page is the public privacy policy for ZNAK MEDUSA Store 1.0.",
+      pendingLabel: "Public privacy policy status",
       contactUrlStatus: "Stable public HTTPS URL",
       contactChannelStatus: "Public contact channel",
       contactReviewStatus: "Owner review",
-      footerScope: "ZNAK MEDUSA Store 1.0 · local preview · not published"
+      footerScope: "ZNAK MEDUSA Store 1.0 · public privacy policy"
     }
   };
 
